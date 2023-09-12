@@ -17,6 +17,22 @@ I'm Lena and I'm a QA Engineer from Belarus.
 ---
 - :hammer_and_wrench:My hard skills :
 <div>
-  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  
-  
+  <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-32-13%20(3).jpg" title="Java" alt="Java" width="90" height="30"/>&nbsp; 
+  <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-32-13%20(2).jpg" title="Java" alt="Java" width="90" height="30"/>&nbsp; 
+  <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-32-13.jpg" width="90" height="30"/>&nbsp; 
+  <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-49.jpg" width="90" height="30"/>&nbsp; 
+   <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-50%20(2).jpg" width="90" height="30"/>&nbsp; 
+    <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-50.jpg" width="90" height="30"/>&nbsp; 
+     <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-51%20(2).jpg" width="90" height="30"/>&nbsp; 
+      <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-51%20(3).jpg" width="90" height="30"/>&nbsp; 
+       <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-51.jpg" width="90" height="30"/>&nbsp; 
+    <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-52.jpg" width="90" height="30"/>&nbsp; 
+    <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_21-06-42.jpg" width="90" height="30"/>&nbsp; 
+     <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_21-06-42%20(3).jpg" width="90" height="30"/>&nbsp; 
+    <img 
+ src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_21-06-42%20(2).jpg" width="90" height="30"/>&nbsp;
+     <img 
+ src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-52%20(3).jpg" width="90" height="30"/>&nbsp;
+      <img 
+ src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-52%20(2).jpg" width="90" height="30"/>&nbsp;
+ </div> 
