@@ -6,10 +6,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>  
 
-<!--
-**ElenaAvgustinovich1992/ElenaAvgustinovich1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ :woman_technologist: About Me :
+    
+I am a QA Engineer from Belarus.
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
