@@ -14,6 +14,7 @@ I'm a QA Engineer from Belarus.
 - 🔭  I’m currently learning Software Testing
 - 🌱 I have experience working on mobile and web projects
 - 👯 I’m looking for my dream team
+- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
 :hammer_and_wrench:My hard skills :
 <div>
