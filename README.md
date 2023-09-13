@@ -42,5 +42,9 @@ I'm a QA Engineer from Belarus.
 💻 My achievements:
 <div>
   <img 
-src="https://drive.google.com/file/d/1VZ6scQ5yHQhx4OqeABlQtl50H1BFsT7z/view?usp=sharing" title="Java" alt="Java" width="90" height="30"/>&nbsp;;
+src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-13_10-56-18.jpg" title="Java" alt="Java" width="756" height="356"/>&nbsp;
+  <img 
+src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-13_10-56-18%20(3).jpg" title="Java" alt="Java" width="756" height="356"/>&nbsp;
+   <img 
+src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-13_10-56-18%20(2).jpg" title="Java" alt="Java" width="756" height="356"/>&nbsp;
    </div> 
