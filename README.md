@@ -7,7 +7,7 @@
 </h1>  
 
 
- :woman_technologist: About Me :
+:woman_technologist: About Me :
     
 I'm a QA Engineer from Belarus.
 
@@ -15,7 +15,7 @@ I'm a QA Engineer from Belarus.
 - 🌱 I have experience working on mobile and web projects
 - 👯 I’m looking for my dream team
 ---
-- :hammer_and_wrench:My hard skills :
+:hammer_and_wrench:My hard skills :
 <div>
   <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-32-13%20(3).jpg" title="Java" alt="Java" width="90" height="30"/>&nbsp; 
   <img src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-32-13%20(2).jpg" title="Java" alt="Java" width="90" height="30"/>&nbsp; 
@@ -36,3 +36,11 @@ I'm a QA Engineer from Belarus.
       <img 
  src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-12_20-51-52%20(2).jpg" width="90" height="30"/>&nbsp;
  </div> 
+
+---
+
+💻 My achievements:
+<div>
+  <img 
+src="https://drive.google.com/file/d/1VZ6scQ5yHQhx4OqeABlQtl50H1BFsT7z/view?usp=sharing" title="Java" alt="Java" width="90" height="30"/>&nbsp;;
+   </div> 
