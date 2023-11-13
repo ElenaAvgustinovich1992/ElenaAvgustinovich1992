@@ -12,7 +12,7 @@
 I'm a QA Engineer from Belarus.
 
 - 🔭  I’m currently learning Software Testing
-- 🌱 I have experience working on mobile and web projects
+- 🌱 I have experience working on mobile project
 - 👯 I’m looking for my dream team
 - 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-avgustinovich-8a9536171/)
 ---
