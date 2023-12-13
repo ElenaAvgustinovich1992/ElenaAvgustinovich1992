@@ -57,3 +57,6 @@ src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/
    <img 
 src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/jpeg/photo_2023-09-13_10-56-18%20(2).jpg" title="Java" alt="Java" width="756" height="356"/>&nbsp;
    </div> 
+ <img 
+https://github.com/lenavgustinovich/lenavgustinovich/blob/main/jpeg/Elena%20Avgustinovich_%D0%A1LS.png
+ <img
