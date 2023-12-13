@@ -59,4 +59,4 @@ src="https://github.com/ElenaAvgustinovich1992/ElenaAvgustinovich1992/blob/main/
    </div> 
  <img 
 https://github.com/lenavgustinovich/lenavgustinovich/blob/main/jpeg/Elena%20Avgustinovich_%D0%A1LS.png
- <img
+  </div> 
